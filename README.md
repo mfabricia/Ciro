@@ -1,7 +1,7 @@
-#Projeto escola
+# Projeto escola
 projeto em desenvolvimento onde 3 serviços se comunicarão
 
-##Como rodar o projeto
+## Como rodar o projeto
 Para rodar o projeto você precisará ter o laravel. Guia do laravel:
 https://laravel.com/docs/10.x/installation
 
